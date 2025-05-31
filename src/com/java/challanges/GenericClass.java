@@ -1,3 +1,5 @@
+package com.java.challanges;
+
 public class GenericClass<T>{
     private T thing;
 

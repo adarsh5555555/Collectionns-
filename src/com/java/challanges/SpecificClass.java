@@ -1,3 +1,5 @@
+package com.java.challanges;
+
 public class SpecificClass {
     private int String;
 
